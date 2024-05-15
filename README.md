@@ -2,9 +2,9 @@
 # Team Members:
 1. Muhtasim Ishmum Khan (2131908042)
 2. Al-Fawsesh Habib (2131230642)
-3. Partha Chowdhury (2211003042)
+3. Plabon Sarkar (2212192042)   
 4. Pial Mazumder (2111343642)
-5. Plabon Sarkar (2212192042)
+5. Partha Chowdhury (2211003042)
 
 # Clone The Project:
 1. Install git bash
